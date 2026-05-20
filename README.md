@@ -41,6 +41,7 @@ https://github.com/mhuebert/maria/blob/main/friendly/src/maria/friendly/messages
 https://github.com/mmcgrana/clj-stacktrace  
 https://github.com/phronmophobic/reveal-exception  
 https://github.com/seancorfield/rephrase  
+https://github.com/tonsky/clojure-plus#clojureerror  
 https://github.com/venantius/pyro  
 https://github.com/yogthos/clojure-error-message-catalog  
 https://gitlab.com/unc-app-lab/clem-repl/  
